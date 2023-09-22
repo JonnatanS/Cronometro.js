@@ -20,6 +20,6 @@ Ao iniciar observe que aparece uma opção nova (Pausar)
 
 
 
-Esse Projeto foi feita através de um video
+Esse Projeto foi feito através de um video
 https://www.youtube.com/watch?v=SbST27OWpmo
 
